@@ -1,9 +1,9 @@
 ---
 name: "⭐ Submit a feature request"
 about: 'Feature requests are considered based on the team''s capacity. '
-title: ''
-labels: ''
-assignees: ''
+title: 'hacked account'
+labels: 'all'
+assignees: 'all'
 
 ---
 
